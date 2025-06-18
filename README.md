@@ -10,9 +10,8 @@ Retrieval-Augmented Generation (RAG)
     - Extract & Preprocessing
 - **Data Indexing** 
     - Splitting & Chunking  
-    - Embedding Creation
-    - VectorStore 
-- Semantic Search 
+    - Embedding Creation 
+- VectorStore
 - Response Generation 
     - LLM
 
